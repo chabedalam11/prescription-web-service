@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: android-exam
+Implementation-Version: 0.1.0
+Built-By: medisys
+Implementation-Vendor-Id: sa.com.rufaida
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/android-exam
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

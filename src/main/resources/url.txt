@@ -1,0 +1,18 @@
+// @100.43.0.18:1521:HISP", "medisys","medisys"
+
+
+
+
+
+
+
+//===============Android Exam===========
+
+//for insert
+	http://100.43.0.30:9001/medisys/insertInfo?project_name=MY Project 4&project_version_name=TestProject 4&project_version_code=abc 4&ip_address=12345&device_imei=123&device_android_id=123&country_iso=123&device_manufacturer=test manu&device_brand= test brand&device_model=test model
+	
+	
+// for retriveInfo
+
+	http://100.43.0.30:9001//medisys/retriveInfo
+	
