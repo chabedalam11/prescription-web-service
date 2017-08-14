@@ -1,6 +1,11 @@
-sa\com\rufaida\config\AllConfig.class
-sa\com\rufaida\config\CustomizationBean.class
-sa\com\rufaida\service\Database.class
-sa\com\rufaida\controller\exam\AndroidController.class
-sa\com\rufaida\app\Application.class
-sa\com\rufaida\domain\exam\AndroidExam.class
+com\prescription\app\Application.class
+com\prescription\domain\DocClinic.class
+com\prescription\domain\DoctorInfo.class
+com\prescription\domain\DocDesignation.class
+com\prescription\controller\DoctorController.class
+com\prescription\domain\Message.class
+com\prescription\service\Database.class
+com\prescription\config\AllConfig.class
+com\prescription\config\CustomizationBean.class
+com\prescription\controller\DocClinicController.class
+com\prescription\controller\DocDesignationController.class
